@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ekrem</h1>
 <h3 align="center">I have a great passion about iOS development!</h3>
-<h3 align="center">Self-taught developer!</h3>
+<h3 align="center">Self-taught developer</h3>
 
 - 📫 How to reach me **ae.alkanekrem@gmail.com**
 
