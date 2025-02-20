@@ -2,8 +2,6 @@
 <h3 align="center">I have a great passion about iOS development!</h3>
 <h3 align="center">Self-taught developer</h3>
 
-- 👨‍💻 See my apps on the App Store [https://apps.apple.com/tr/developer/ekrem-alkan/id1679503095](https://apps.apple.com/tr/developer/ekrem-alkan/id1679503095)
-- 📝 I regularly write articles on Medium [https://medium.com/@ae.alkanekrem](https://medium.com/@ae.alkanekrem)
 - 📫 How to reach me **ae.alkanekrem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
